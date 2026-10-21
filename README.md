@@ -7,4 +7,6 @@ To use:
 - In your terminal go to the jAquarium folder
 - run ./bin/app on macOS or Linux or run bin\app.bat on Windows
 
+You need Java installed on your computer in order to run the program. :)
+
 Customisation for aquarium will be added.
